@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    fastercsv (1.5.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fastercsv
