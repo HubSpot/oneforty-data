@@ -1,18 +1,17 @@
 # oneforty app data
 
-Open data on about 4,000 social media apps and related screenshots and reviews from oneforty.com.
-
+Data on 4,000+ social media apps along with screenshots and reviews from oneforty. The data is being provided under an open license (see below), and hopefully will be useful to others.
 
 ## License
 
-This data is licensed under the Creative Commons Attribution 3.0 license (http://creativecommons.org/licenses/by/3.0/).
+This data is licensed under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> license (http://creativecommons.org/licenses/by/3.0/).
 
-It includes a requirement that 
+It includes a requirement for attribution (ex. "social media app data provided by <a href='http://www.hubspot.com'>HubSpot</a>").
 
 
 ## Data and Schema
 
-The following describes the schema for the data files. Each file is tab-delimited and is in utf-8. There is an example importer included that uses Ruby 1.9's CSV library to parse each document.
+The following describes the schema for the data files. Each file is tab-delimited and is encoded in utf-8. There is an example importer included that uses Ruby 1.9's CSV library to parse each document if you need a guide.
 
 - items (aka apps)
 -- id - database id of the app.
@@ -29,7 +28,7 @@ The following describes the schema for the data files. Each file is tab-delimite
 -- tags - User-generated tags seperated by a comma. Free-form values.
 -- developer name - if known, the name of the app developer
 -- developer twitter - if known, the twitter handle of the app developer
--- description - long form app description.
+-- description - long form app description. Note that descriptions can have carridge-return/line-feed characters in them and some html tags.
 
 Many items have an accompanying icon (or logo) in the images/items directory. They are named like [item id]_[style].png where style is either "thumb" (100x100) or "original" (no fixed dimensions).
 
@@ -59,3 +58,4 @@ Many items have an accompanying icon (or logo) in the images/items directory. Th
 1. Import the .txt file into Excel
 2. In Text Import Wizard, on 1st screen choose "Delimited"
 3. Check "Tab" as the Delimiter
+4. Choose "General" as the field type.
