@@ -1,6 +1,10 @@
 # oneforty app data
 
-Data on 4,000+ social media apps along with screenshots and reviews from oneforty. The data is being provided under an open license (see below), and hopefully will be useful to others.
+Data on 4,000+ social media apps along with screenshots and reviews from oneforty. The data is being provided under an open license (see below).
+
+The data was collected as part of running oneforty.com, and will hopefully will be useful to others.
+
+Questions / Comments - contact <a href="http://graysky.org">Mike Champion</a> (<a href="http://twitter.com/graysky">@graysky</a>)
 
 ## License
 
