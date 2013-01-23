@@ -10,7 +10,7 @@ Questions / Comments - contact [Mike Champion](http://graysky.org) ([@graysky](h
 
 This data is licensed under the [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/) license ([http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)).
 
-It includes a requirement for attribution (ex. "social media application data provided by <a href='http://www.hubspot.com'>HubSpot</a>").
+It includes a requirement for attribution (ex. "social media application data provided by [HubSpot](http://www.hubspot.com)").
 
 ### Data and Schema
 
