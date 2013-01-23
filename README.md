@@ -1,4 +1,4 @@
-# oneforty app data
+## oneforty app data
 
 Data on 4,000+ social media apps along with screenshots and reviews from oneforty. The data is being provided under an open license (see below).
 
@@ -6,13 +6,13 @@ The data was collected as part of running oneforty.com, and will hopefully will 
 
 Questions / Comments - contact <a href="http://graysky.org">Mike Champion</a> (<a href="http://twitter.com/graysky">@graysky</a>)
 
-## License
+### License
 
 This data is licensed under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> license (http://creativecommons.org/licenses/by/3.0/).
 
 It includes a requirement for attribution (ex. "social media application data provided by <a href='http://www.hubspot.com'>HubSpot</a>").
 
-## Data and Schema
+### Data and Schema
 
 The following describes the schema for the data files. Each file is tab-delimited and is encoded in utf-8. There is an example importer included that uses Ruby 1.9's CSV library to parse each document if you need a guide.
 
