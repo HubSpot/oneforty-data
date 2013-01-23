@@ -4,11 +4,11 @@ Data on 4,000+ social media apps along with screenshots and reviews from onefort
 
 The data was collected as part of running oneforty.com, and will hopefully will be useful to others.
 
-Questions / Comments - contact <a href="http://graysky.org">Mike Champion</a> (<a href="http://twitter.com/graysky">@graysky</a>)
+Questions / Comments - contact [Mike Champion](http://graysky.org) ([@graysky](http://twitter.com/graysky)).
 
 ### License
 
-This data is licensed under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</a> license (http://creativecommons.org/licenses/by/3.0/).
+This data is licensed under the [Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/) license ([http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/)).
 
 It includes a requirement for attribution (ex. "social media application data provided by <a href='http://www.hubspot.com'>HubSpot</a>").
 
